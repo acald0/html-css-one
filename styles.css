@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    letter-spacing: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+p {
+    text-align: center;
+    letter-spacing: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.image1 {
+    height: 550px;
+    float: left;
+}
+
+
+.image2 {
+    height: 400px;
+    float: center;
+}
+
+.image3 {
+    height: 400px;
+    float: right;
+}
+
+p2, p3, p4, p5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+
+
